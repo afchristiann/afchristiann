@@ -4,20 +4,12 @@
   Desenvolvedor <strong>Full-Stack</strong> | Focado em criar soluções web modernas e escaláveis.
 </p>
 
-<!-- Discreto, mas ainda chamativo: contadores e um leve "typing" -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=afchristiann&color=blue" alt="Contador de visitas" />
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=600&color=58A6FF&center=true&vCenter=true&width=380&lines=Bem-vindo+ao+meu+GitHub!;Sou+apaixonado+por+inova%C3%A7%C3%A3o+e+tecnologia." alt="Typing SVG" />
-</p>
-
 ---
 
 ## Sobre mim
 
 - 🌱 **Atualmente**, estou mergulhando em **Next.js**, **TypeScript** e **Prisma**.
 - 🔎 **Foco**: Desenvolver aplicações que entreguem excelente performance e utilizem boas práticas.
-- ⚙️ **Repositórios privados**: A maior parte dos meus projetos é privada, portanto algumas estatísticas podem não refletir toda a minha experiência.
 - 📚 **Interesses**: Node.js, React, arquiteturas escaláveis e metodologias ágeis.
 
 ---
@@ -44,21 +36,6 @@ Aqui estão algumas das principais ferramentas e linguagens que utilizo no meu d
 
 ---
 
-## Estatísticas do GitHub
-
-> *Observação*: Utilizo `count_private=true` para contar contribuições em repositórios privados, mas esses dados podem não ser completamente refletidos aqui.
-
-<div align="center">
-
-  <!-- Stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=afchristiann&show_icons=true&count_private=true&theme=default" alt="Estatísticas do GitHub do Christian" />
-
-  <!-- Top Langs -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afchristiann&layout=compact&theme=default" alt="Linguagens mais usadas" />
-</div>
-
----
-
 ## Projetos e Repositórios
 
 - **Projetos Privados**: Como a maioria dos meus projetos é privada, eles não aparecem no meu perfil. Entretanto, se houver interesse em conhecer meu trabalho ou receber demonstrações, podemos conversar.
@@ -70,11 +47,11 @@ Aqui estão algumas das principais ferramentas e linguagens que utilizo no meu d
 
 <div align="center">
   <!-- E-mail -->
-  <a href="mailto:seuemail@exemplo.com">
+  <a href="mailto:christian.fernds@gmail.com">
     <img src="https://img.shields.io/badge/Email-seuemail%40exemplo.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" alt="Email" />
   </a>
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/seu-perfil-linkedin">
+  <a href="https://www.linkedin.com/in/afchristiann">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
   </a>
 </div>
