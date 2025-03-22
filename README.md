@@ -1,42 +1,34 @@
-<!-- CENTRALIZAR VISÃO GERAL DO PERFIL -->
+<!-- Centralizar todo o conteúdo -->
 <div align="center">
 
-<!-- Título principal com nome e saudação animada -->
+<!-- Saudação animada (Typing SVG) -->
 <a href="https://github.com/afchristiann">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=00FFAB&center=true&vCenter=true&width=800&lines=Ol%C3%A1!+Eu+sou+Christian+Fernandes;Bem-vindo+ao+meu+GitHub!;Desenvolvedor+Full-Stack;Apaixonado+por+inova%C3%A7%C3%A3o+e+tecnologia!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3000&pause=800&color=0EF7B4&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Christian+Fernandes;Bem-vindo+ao+meu+GitHub!;Desenvolvedor+Full-Stack;Apaixonado+por+inova%C3%A7%C3%A3o+e+tecnologia!" alt="Typing SVG" />
 </a>
 
-<!-- Contadores e Badges -->
+<!-- Badges de status e contador de visitas -->
 <p>
-  <!-- Badge de visitas no perfil -->
   <img src="https://komarev.com/ghpvc/?username=afchristiann&color=brightgreen" alt="Visitantes" />
-  
-  <!-- Status de disponibilidade -->
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=flat" alt="Disponível para oportunidades">
-  
-  <!-- Localização -->
-  <img src="https://img.shields.io/badge/Local-Brazil-3cdffa?style=flat&logo=google-maps" alt="Localização Brasil">
-  
-  <!-- Linguagem preferencial -->
-  <img src="https://img.shields.io/badge/Language-Portuguese%20%2F%20English-blue?style=flat" alt="Lingua PT/EN">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=flat" alt="Disponível para oportunidades" />
+  <img src="https://img.shields.io/badge/Local-Brazil-blue?style=flat" alt="Localização: Brasil" />
 </p>
 
 </div>
 
 ---
 
-## ✨ Apresentação
+## Quem Sou Eu
 
-Sou o **Christian Fernandes**, um desenvolvedor **Full-Stack** que ama transformar ideias em produtos digitais de alto impacto. Minha missão é **criar soluções escaláveis e inovadoras** para resolver problemas reais, sempre buscando **excelência** no código e **eficiência** nas entregas.
+Olá! Sou **Christian Fernandes**, desenvolvedor **Full-Stack** com foco em construir aplicações web modernas e de alta performance. Atualmente dedico meu tempo a aprender e aprimorar tecnologias como **Next.js**, **TypeScript** e **Prisma**, buscando sempre **boas práticas** e **eficiência**.
 
-- 🌱 **Estudando atualmente**: **Next.js**, **TypeScript**, **Prisma**.  
-- 🔭 **Trabalhando em**: Projetos pessoais e colaborando com a comunidade open source.  
-- 💬 **Gosto de falar sobre**: Desenvolvimento Web, Clean Code, Alta Performance e Tendências Tech.  
-- 🌐 **Objetivo**: Contribuir para o crescimento de empresas e projetos através de soluções tecnológicas criativas.  
+- ⚡ **Ponto forte**: Resolver problemas de forma criativa e prática.  
+- 🌱 **No momento**: Explorando cada vez mais o ecossistema **Node.js** e **React**.  
+- 🤔 **Por que privado?**: Meus projetos principais estão em repositórios privados, mas estou sempre aberto a discutir ou demonstrá-los em processos de recrutamento.  
+- 💬 **Interesses**: Desenvolver soluções que facilitam a vida das pessoas e geram valor real.
 
 ---
 
-## 🚀 Principais Tecnologias
+## Tecnologias Principais
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
   <!-- Front-End -->
@@ -47,7 +39,7 @@ Sou o **Christian Fernandes**, um desenvolvedor **Full-Stack** que ama transform
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  
+
   <!-- Back-End -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
@@ -58,89 +50,58 @@ Sou o **Christian Fernandes**, um desenvolvedor **Full-Stack** que ama transform
 
 ---
 
-## 🏆 Conquistas e Destaques
+## Métricas do GitHub
 
-Aqui estão alguns **marcos** que ilustram meu esforço constante para evoluir na área de desenvolvimento:
-
-- 🏆 **Certificações** em desenvolvimento web e frameworks JavaScript.
-- 📈 **Contribuições** para projetos open source voltados a **React** e **Next.js**.
-- 🌐 **Mentorias** a novos desenvolvedores que buscam se destacar em **HTML**, **CSS** e **JavaScript**.
-- 🏅 **Projetos reconhecidos** em comunidades de tecnologia e fóruns especializados.
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=afchristiann&theme=radical&row=1&no-frame=true&no-bg=true" alt="Troféus do GitHub" />
-</div>
-
----
-
-## 📊 Métricas do GitHub
+> Nota: Como a maior parte dos meus projetos são privados, os números podem não refletir 100% do meu trabalho. Estou usando `count_private=true` para contabilizar contribuições em repositórios privados, na medida que for permitido pelas configurações do GitHub.
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=afchristiann&show_icons=true&theme=radical&count_private=true" alt="Estatísticas do GitHub" />
+<!-- GitHub Stats (inclui contribuições privadas, se permitido) -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=afchristiann&show_icons=true&count_private=true&theme=radical" alt="Estatísticas do GitHub" />
 
-<!-- Top Langs -->
+<!-- Top Langs (linguagens mais usadas) -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afchristiann&layout=compact&theme=radical" alt="Linguagens mais usadas" />
 
 </div>
 
 ---
 
-## 🔥 Streak de Contribuições
+## Streak de Contribuições
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=afchristiann&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=afchristiann&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Streak Stats" />
 </div>
 
 ---
 
-## 🌐 Gráfico de Atividade
+## Gráfico de Atividades Recentes
 
 <div align="center">
-  <img
-       src="https://github-readme-activity-graph.cyclic.app/graph?username=afchristiann&theme=react-dark&bg_color=20232a&hide_border=true"
-       alt="Gráfico de atividade do GitHub" 
+  <img 
+       src="https://github-readme-activity-graph.cyclic.app/graph?username=afchristiann&theme=react-dark&bg_color=20232a&hide_border=true" 
+       alt="Gráfico de atividades do GitHub" 
   />
 </div>
 
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos (Futuros/Privados)
 
-> **Dica**: Destacar projetos torna o seu perfil ainda mais atrativo para recrutadores. Fixe os repositórios principais no seu perfil do GitHub ou liste-os abaixo.
-
-- [**Projeto 1** - Nome do Projeto](#)
-  - Breve descrição: Plataforma de e-commerce com **Next.js**, **Tailwind** e **MongoDB**.
-  - Objetivo: Fornecer uma experiência de compra rápida e intuitiva.
-  
-- [**Projeto 2** - Nome do Projeto](#)
-  - Breve descrição: Aplicação de gerenciamento de tarefas com **React**, **Node.js** e **Firebase**.
-  - Objetivo: Aumentar a produtividade e organização pessoal.
-
-- [**Projeto 3** - Nome do Projeto](#)
-  - Breve descrição: Dashboard de análise de dados em tempo real com **TypeScript** e **Prisma**.
-  - Objetivo: Oferecer insights rápidos e confiáveis para tomada de decisões.
+Como meus projetos atuais estão em repositórios privados, eles não aparecem na minha lista pública do GitHub. Se tiver interesse em conhecer meus trabalhos, **entre em contato** para que eu possa compartilhar detalhes e demos de forma privada.
 
 ---
 
-## 🤝 Como Me Encontrar
+## Contato
 
-Fique à vontade para **entrar em contato** se quiser discutir projetos, oportunidades de trabalho ou simplesmente bater um papo sobre tecnologia:
+Quer bater um papo sobre oportunidades, tecnologias ou qualquer outro assunto relacionado a desenvolvimento? Fique à vontade para me procurar!
 
 <p align="center">
-  <a href="mailto:seu-email-aqui@exemplo.com">
-    <img src="https://img.shields.io/badge/Email-seuemail%40exemplo.com-0D1117?style=flat&logo=gmail" alt="Email" />
+  <a href="mailto:seuemail@exemplo.com">
+    <img src="https://img.shields.io/badge/Email-seuemail%40exemplo.com-0d1117?style=flat&logo=gmail" alt="Email" />
   </a>
 
-  <!-- Substitua pelo seu LinkedIn -->
   <a href="https://www.linkedin.com/in/seu-perfil-linkedin/">
     <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
-  <!-- Substitua pelo seu portfólio ou site pessoal, se tiver -->
-  <a href="https://seu-portfolio.com/">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-Visitar-000?style=flat&logo=vercel&logoColor=white" alt="Portfólio" />
   </a>
 </p>
 
@@ -148,11 +109,10 @@ Fique à vontade para **entrar em contato** se quiser discutir projetos, oportun
 
 <div align="center">
 
-**Obrigado pela visita!**  
-*Se você chegou até aqui, sinta-se livre para explorar meus repositórios e me enviar qualquer dúvida ou sugestão. Estou sempre aberto a colaborações e novos desafios!*
+**Obrigado(a) pela visita!**  
+_Sinta-se livre para explorar meus repositórios públicos (ou me pedir acesso aos privados) e deixar seu feedback._  
 
-<br/>
-Feito com muita dedicação e café por  
-<strong>Christian Fernandes</strong>.
+Feito com dedicação por  
+**Christian Fernandes (afchristiann)**
 
 </div>
