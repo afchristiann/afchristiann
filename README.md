@@ -48,7 +48,7 @@ Aqui estão algumas das principais ferramentas e linguagens que utilizo no meu d
 <div align="center">
   <!-- E-mail -->
   <a href="mailto:christian.fernds@gmail.com">
-    <img src="https://img.shields.io/badge/Email-seuemail%40exemplo.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-christian.ferndsl%40gmail.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" alt="Email" />
   </a>
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/afchristiann">
